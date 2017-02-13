@@ -55,6 +55,5 @@ var input=-1;
     
          while vs do while: 就看第一次条件是否满足
            第一次条件满足，两者完全等效
-           第一次条件不满，while一次都不执行
-                        do while至少可以执行一次
+           第一次条件不满，while一次都不执行; do while至少可以执行一次.
 
